@@ -8,3 +8,7 @@ MSCOCO 2014 데이터셋을 이용해 다른 스타일로 변환함으로서 새
 
 ## 예시 이미지
 ![hi](https://github.com/Flying-4-Potatoes/Style_Transfer/assets/79971467/fc19fd49-fb7c-49ac-a107-0bb1f7b416e5)
+
+![image](https://github.com/Flying-4-Potatoes/Style_Transfer/assets/79971467/e584f3e2-9fda-4a8b-a8ac-60e29260a90d)
+
+![image](https://github.com/Flying-4-Potatoes/Style_Transfer/assets/79971467/e6f79025-5495-44e1-b941-c1dbd6a78b4f)
