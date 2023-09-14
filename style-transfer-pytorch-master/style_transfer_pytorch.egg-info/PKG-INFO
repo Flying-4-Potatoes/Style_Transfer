@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: style-transfer-pytorch
+Version: 0.1
+Summary: Neural style transfer in PyTorch.
+Home-page: https://github.com/crowsonkb/style-transfer-pytorch
+Author: Katherine Crowson
+Author-email: crowsonkb@gmail.com
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.6
+License-File: LICENSE
+
+Neural style transfer in PyTorch.
+
